@@ -1,5 +1,5 @@
 Selesai Download Jalankan Perintah untuk mendownload file node_modules
-	ionic init --verbose
+	ionic build --verbose
 
 Mencoba Ionic
 	ionic serve --verbose
